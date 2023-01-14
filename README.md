@@ -1,7 +1,7 @@
 # FileEditor
  Simple FileEditor Tool for Windows Desktop in C#
  
- ![alt text]()
+ ![alt text](https://raw.githubusercontent.com/ConfusedCharacter/FileEditor/main/screenshot/shot.jpg?token=GHSAT0AAAAAAB434ULXE2SVL65ZRJFD4VLYY6CYF7A)
 
 # Tools
 * Split file
