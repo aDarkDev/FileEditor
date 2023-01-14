@@ -4,6 +4,7 @@
  ![alt text](https://raw.githubusercontent.com/ConfusedCharacter/FileEditor/main/screenshot/shot.jpg?token=GHSAT0AAAAAAB434ULXE2SVL65ZRJFD4VLYY6CYF7A)
 
 # Tools
+* **it Use File Generator method for big files**
 * Split file
 * Append string to file
 * Credentials Maker
