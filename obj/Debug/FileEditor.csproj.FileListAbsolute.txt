@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\bin\Debug\FileEditor.exe.config
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.exe
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.pdb
+C:\Users\Administrator\Desktop\FileEditor\FileEditor\obj\Debug\FileEditor.MainForm.resources
