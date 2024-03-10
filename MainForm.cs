@@ -154,7 +154,7 @@ namespace FileEditor
                 int ping = (int)Math.Round(unixTimestamp_end - unixTimestamp_start, 0);
                 string[] name = source.Split(new string[] { "\\" }, StringSplitOptions.None);
                 MessageBox.Show(
-                    $"Splited Success.\r\nFile: {name[name.Length-1]}\r\nTime Taken: {ping}s\r\nNumber of files created: {FileCount}\r\nBy ConfusedCharacter",
+                    $"Splited Success.\r\nFile: {name[name.Length-1]}\r\nTime Taken: {ping}s\r\nNumber of files created: {FileCount}\r\nBy aDarkDev",
                     "Completed", 
                     MessageBoxButtons.OK, 
                     MessageBoxIcon.Information
@@ -179,7 +179,7 @@ namespace FileEditor
                 double unixTimestamp_end = unixTimeStamp();
                 int ping = (int)Math.Round(unixTimestamp_end - unixTimestamp_start, 0);
                 MessageBox.Show(
-                    $"Splited Success.\r\nTime Taken: {ping}s\r\nBy ConfusedCharacter",
+                    $"Splited Success.\r\nTime Taken: {ping}s\r\nBy aDarkDev",
                     "Completed", 
                     MessageBoxButtons.OK, 
                     MessageBoxIcon.Information
@@ -252,7 +252,7 @@ namespace FileEditor
                 double unixTimestamp_end = unixTimeStamp();
                 int ping = (int)Math.Round(unixTimestamp_end - unixTimestamp_start, 0);
                 MessageBox.Show(
-                    $"Splited Success.\r\nTime Taken: {ping}s\r\nBy ConfusedCharacter",
+                    $"Splited Success.\r\nTime Taken: {ping}s\r\nBy aDarkDev",
                     "Completed",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information
@@ -303,7 +303,7 @@ namespace FileEditor
                 double unixTimestamp_end = unixTimeStamp();
                 int ping = (int)Math.Round(unixTimestamp_end - unixTimestamp_start, 0);
                 MessageBox.Show(
-                    $"Splited Success.\r\nTime Taken: {ping}s\r\nBy ConfusedCharacter",
+                    $"Splited Success.\r\nTime Taken: {ping}s\r\nBy aDarkDev",
                     "Completed",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information
